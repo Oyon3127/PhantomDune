@@ -1,6 +1,6 @@
 # MummyIsland  
   
-MummyIsland is a 3D game, Written in Python using Pyopengl and Pygame.  
+PhantomDune is a 3D game, Written in Python using Pyopengl and Pygame.  
   
 ![image](https://user-images.githubusercontent.com/63170874/123775636-d5fe2f80-d8ce-11eb-9510-ecac702169fa.png)
 

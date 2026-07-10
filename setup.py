@@ -9,8 +9,8 @@ excludes = ["matplotlib.tests", "numpy", "pygame"]
 packages = ["os", "math", "random","OpenGL", "json", "time", "tkinter"]
 
 setup(
-    name = "The Mummy",
-    description='my lovely game',
+    name = "PhantomDune",
+    description='A 3D desert survival shooter',
     version=__version__,
     options = {"build_exe": {
     'packages': packages,
@@ -21,6 +21,6 @@ setup(
 executables = [Executable(
     script="game.py",
     base="Win32GUI",
-    icon="mummy.ico"
+    icon="phantomdune.ico"    # rename your icon file too, or keep mummy.ico
     )]
 )

@@ -284,3 +284,5 @@ class Game:
             fogColour = [0.0, 0.4, 0.9, 0.2]
             glFogfv(GL_FOG_COLOR, fogColour)
 
+# Converted from glutCreateWindow(b"PHRIX3D") to:
+glutCreateWindow(b"PhantomDune")
